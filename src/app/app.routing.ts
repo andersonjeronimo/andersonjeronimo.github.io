@@ -11,7 +11,7 @@ import { ArticlesComponent } from "app/articles/articles.component";
 const APP_ROUTES: Routes = [
     { path: '', component: HomeComponent },
     { path: 'artigos', component: ArticlesComponent },
-    { path: 'audio', component: AudioComponent },
+    { path: 'audios', component: AudioComponent },
     { path: 'livros', component: BooksComponent },
     { path: 'imagens', component: ImagesComponent },
     { path: 'videos', component: VideoComponent }
